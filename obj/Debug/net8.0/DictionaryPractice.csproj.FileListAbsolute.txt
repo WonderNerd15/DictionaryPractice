@@ -1,0 +1,14 @@
+/home/gaby/Downloads/DictionaryPractice/bin/Debug/net8.0/DictionaryPractice
+/home/gaby/Downloads/DictionaryPractice/bin/Debug/net8.0/DictionaryPractice.deps.json
+/home/gaby/Downloads/DictionaryPractice/bin/Debug/net8.0/DictionaryPractice.runtimeconfig.json
+/home/gaby/Downloads/DictionaryPractice/bin/Debug/net8.0/DictionaryPractice.dll
+/home/gaby/Downloads/DictionaryPractice/bin/Debug/net8.0/DictionaryPractice.pdb
+/home/gaby/Downloads/DictionaryPractice/obj/Debug/net8.0/DictionaryPractice.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaby/Downloads/DictionaryPractice/obj/Debug/net8.0/DictionaryPractice.AssemblyInfoInputs.cache
+/home/gaby/Downloads/DictionaryPractice/obj/Debug/net8.0/DictionaryPractice.AssemblyInfo.cs
+/home/gaby/Downloads/DictionaryPractice/obj/Debug/net8.0/DictionaryPractice.csproj.CoreCompileInputs.cache
+/home/gaby/Downloads/DictionaryPractice/obj/Debug/net8.0/DictionaryPractice.dll
+/home/gaby/Downloads/DictionaryPractice/obj/Debug/net8.0/refint/DictionaryPractice.dll
+/home/gaby/Downloads/DictionaryPractice/obj/Debug/net8.0/DictionaryPractice.pdb
+/home/gaby/Downloads/DictionaryPractice/obj/Debug/net8.0/DictionaryPractice.genruntimeconfig.cache
+/home/gaby/Downloads/DictionaryPractice/obj/Debug/net8.0/ref/DictionaryPractice.dll
